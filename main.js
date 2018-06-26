@@ -1,0 +1,19 @@
+var fecha_solicitud= "25/06/2018" ;
+var nombre= "elena marcela guerra";
+var fecha_nacimiento= "06/05/2001";
+var correo= "guerrablandoncristi@hotmail.com";
+var telefono= "5826474";
+var genero= "femenino";
+var departamento= "antioquia";
+var ciudad= "medellin";
+var direccion= "crra 33a #41-60";
+var tipo_domicilio= "casa";
+var otro_tipo_de_domicilio;
+var numero_de_personas= 3;
+var porque_adoptar= "porque quiere dar amorsh";
+var experiencia_con_animales= "no";
+var tienes_otra_mascota= "no";
+var ingresos_mensuales= 300000;
+var ingresos_paratu_mascota= 40000;
+var tiempo_mascota= 10;
+var ausente_mascota= "maria elena guerra"
